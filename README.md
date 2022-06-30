@@ -1,1 +1,1 @@
-# mersennetwistergenerator
+# mtgenerator
