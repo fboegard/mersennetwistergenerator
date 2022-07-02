@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages in main!!!!!
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js">
+<script src="https://code.jquery.com/jquery-1.12.4.js" integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
 <script src="https://github.com/fboegard/mersennetwistergenerator/blob/main/mersennetwister.js">
 </script>
 
