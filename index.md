@@ -9,13 +9,14 @@
 <button onclick="myFunction()">Generate random number 1 -> 100</button>
 
 <script>
+ var mt = new MersenneTwister(seed); // if no seed is defined, seed randomly
+ var mt2 = new MersenneTwister();
+ 
 function myFunction() {
 
 //   alert("Hello! I am an alert box!");
-  var mt = new MersenneTwister(seed); // if no seed is defined, seed randomly
-  var mt2 = new MersenneTwister();
  var randomnr = mt.int();
-var randomnr2 = mt2.int();
+ var randomnr2 = mt2.int();
 
    alert("Random " + randomnr) ;    // random 32-bit integer
    alert("Random2 " + randomnr2);
