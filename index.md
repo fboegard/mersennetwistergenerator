@@ -11,10 +11,10 @@
 <script>
 function myFunction() {
 
-  alert("Hello! I am an alert box!");
+//   alert("Hello! I am an alert box!");
   var mt = new MersenneTwister(seed); // if no seed is defined, seed randomly
- 
-   alert(mt.int());    // random 32-bit integer
+ var randomnr = mt.int();
+   alert("Random " + randomnr) ;    // random 32-bit integer
 }
 </script>
 
