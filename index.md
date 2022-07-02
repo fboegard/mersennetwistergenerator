@@ -3,9 +3,15 @@
 <script src="http://code.jquery.com/jquery-1.4.2.min.js">
 
 </script>
+
+<p>Click the button to display an alert box.</p>
+
+<button onclick="myFunction()">Try it</button>
+
 <script>
-    
-...do stuff...
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
 </script>
 
 
