@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages in main!!!!!
-fdsfds
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js">
+
+</script>
+<script>
+    
+...do stuff...
+</script>
+
+
 You can use the [editor on GitHub](https://github.com/fboegard/mersennetwistergenerator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
