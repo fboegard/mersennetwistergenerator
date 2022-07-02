@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages in main!!!!!
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js">
-<script src="./mersennetwister.js">
+<script src="https://github.com/fboegard/mersennetwistergenerator/blob/main/mersennetwister.js">
 </script>
 
 <p>Click the button to display an alert box.</p>
@@ -13,8 +13,12 @@ function myFunction() {
 
 //   alert("Hello! I am an alert box!");
   var mt = new MersenneTwister(seed); // if no seed is defined, seed randomly
+  var mt2 = new MersenneTwister();
  var randomnr = mt.int();
+var randomnr2 = mt2.int();
+
    alert("Random " + randomnr) ;    // random 32-bit integer
+   alert("Random2 " + randomnr2);
 }
 </script>
 
