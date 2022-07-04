@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages in main!!!!!
 
 <script src="https://code.jquery.com/jquery-1.12.4.js" integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
-<script src="https://github.com/fboegard/mersennetwistergenerator/blob/main/mersennetwister.js">
+<script src="https://github.com/fboegard/mersennetwistergenerator/blob/main/mersennetwister.js" crossorigin="anonymous">
 </script>
 
 <p>Click the button to display an alert box.</p>
